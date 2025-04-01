@@ -15,7 +15,7 @@ struct Worker {
         cout << setw(20) << "Birthdate: " << birthyear << endl;
         cout << setw(20) << "Position: " << pos << endl;
         cout << setw(20) << "Salary: " << salary << "UAH." << endl;
-        cout << setw(20) << "Education: " << educ << " UAH" << endl;
+        cout << setw(20) << "Education: " << educ << endl;
         cout << "=======================================\n";
     }
 };

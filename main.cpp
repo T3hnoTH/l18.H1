@@ -14,5 +14,5 @@ int main(){
         if (arr[i].birthyear < 1965){
             arr[i].showInfo();
         }
-    }
+    };
 }
